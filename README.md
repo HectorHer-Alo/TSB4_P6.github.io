@@ -8,4 +8,4 @@ A description of the materials and methods shown in the poster TSB-4_P6 at III S
 **All authors are affiliated to:** CEFE, University of Montpellier, CNRS, EPHE, IRD, Montpellier, France.
 
 **Presentation schedule:** Tuesday 3, Corner room 7, Location 10\
-**Sesion:** TSB-4. Plant-soil interactions: biodiversity, functioning and sustainable practices under global change.
+**Session:** TSB-4. Plant-soil interactions: biodiversity, functioning and sustainable practices under global change.
