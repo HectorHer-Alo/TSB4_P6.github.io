@@ -1,58 +1,32 @@
 ---
 title: "Woody litterfall of mixed beech forests overyield pure stands in a temperature gradient"
 
+project:
+  type: website
+  
 format:
   html:
+    theme: cosmo
     mainfont: Calibri
     default-image-extension: svg
     output-file: index.html
 
-author:
-  - name: Héctor Hernández-Alonso
-    orcid: 0000-0001-7840-4230
-    corresponding: true
-    email: hector.hernandez@cefe.cnrs.fr
-    roles: [define, all, roles]
-    affiliation:
-      - id: CNRS
-        name: CEFE (CNRS)
-      - id: iuFOR
-        name: iuFOR
-  - name: Bastian Laforgue
-    corresponding: false
-    roles: [define, all, roles]
-    affiliation:
-      - ref: CNRS
-  - name: Camille Marande
-    corresponding: false
-    roles: [define, all, roles]
-    affiliation:
-      - ref: CNRS
-  - name: Lùla Marcet
-    corresponding: false
-    roles: [define, all, roles]
-    affiliation:
-      - ref: CNRS
-  - name: Jean-Marc Ourcival
-    corresponding: false
-    roles: [define, all, roles]
-    affiliation:
-      - ref: CNRS
-  - name: Xavier Morin
-    orcid: 0000-0003-1961-8700
-    corresponding: false
-    roles: [define, all, roles]
-    email: xavier.morin@cefe.cnrs.fr
-    affiliation:
-      - ref: CNRS
-      
 date: last-modified
 
 bibliography: Deadwood.bib
 
 ---
 
-# Material and Methods for poster communication *TSB4_P6* {style="text-align: justify"}
+## Material and Methods for poster *TSB4_P6* {style="text-align: justify"}
+
+**Poster title:** Woody litterfall of mixed beech forests overyield pure stands in a temperature gradient\
+**Poster code:** TSB.4-P-6
+
+**Authors:** <ins>Héctor Hernández-Alonso</ins>, B Laforgue, C Marande, L Marcet, JM Ourcival, X Morin\
+**All authors are affiliated to:** CEFE, University of Montpellier, CNRS, EPHE, IRD, Montpellier, France.
+
+**Presentation schedule:** Tuesday 3, Corner room 7, Location 10\
+**Session:** TSB-4. Plant-soil interactions: biodiversity, functioning and sustainable practices under global change.
 
 ## Study area
 
