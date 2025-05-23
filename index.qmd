@@ -1,0 +1,98 @@
+---
+title: "Woody litterfall of mixed beech forests overyield pure stands in a temperature gradient"
+
+format:
+  html:
+    mainfont: Calibri
+    default-image-extension: svg
+    output-file: index.html
+
+author:
+  - name: Héctor Hernández-Alonso
+    orcid: 0000-0001-7840-4230
+    corresponding: true
+    email: hector.hernandez@cefe.cnrs.fr
+    roles: [define, all, roles]
+    affiliation:
+      - id: CNRS
+        name: CEFE (CNRS)
+      - id: iuFOR
+        name: iuFOR
+  - name: Bastian Laforgue
+    corresponding: false
+    roles: [define, all, roles]
+    affiliation:
+      - ref: CNRS
+  - name: Camille Marande
+    corresponding: false
+    roles: [define, all, roles]
+    affiliation:
+      - ref: CNRS
+  - name: Lùla Marcet
+    corresponding: false
+    roles: [define, all, roles]
+    affiliation:
+      - ref: CNRS
+  - name: Jean-Marc Ourcival
+    corresponding: false
+    roles: [define, all, roles]
+    affiliation:
+      - ref: CNRS
+  - name: Xavier Morin
+    orcid: 0000-0003-1961-8700
+    corresponding: false
+    roles: [define, all, roles]
+    email: xavier.morin@cefe.cnrs.fr
+    affiliation:
+      - ref: CNRS
+      
+date: last-modified
+
+bibliography: Deadwood.bib
+
+---
+
+# Material and Methods for poster communication *TSB4_P6* {style="text-align: justify"}
+
+## Study area
+
+The area of interest was located in SW inland France ([@fig-1]-A). The regional geography is dominated by a strong elevation gradient from the sea level to the French Alps with presence of beech forests. We selected six sites along the gradient to encompass elevational and climatic differences  in addition to tree species composition differences ([@fig-1]-B). In a latitudinal order, selected sites were Sainte-Baume (St Baume), Grand Luberon (G Luberon), Luberon-Lagarde (Lagarde), Mont Ventoux (Ventoux), Vercors and Bauges. We based the sampling design on triplets of plots, being two plots monospecific and the third one a mixture of the previous two species ([@fig-1]-C). Each site accounted for triplets established at low, medium and high elevation . To minimize inter-plot abiotic differences, all plots were selected over limestone bedrock with north-to-west aspect.
+
+![Study area, plot selection and deadwood survey design. **A.** map showing the general location of the Mediterranean-Alpine gradient. **B.** map showing the location of the six sites (black circles) with colours depicting the mean annual temperature (MAT). **C.** diagram of the plot selection. Packs of three sampling plots (triplets) were selected at different elevation. Species composition of the three northernmost sites was pure ABIALB, pure FAGSYL and mixed ABIALB/FAGSYL whereas in the southernmost site’s composition was pure FAGSYL, pure QUEPET and mixed FAGSYL/QUEPET plots. **D.** Diagram showing how deadwood survey was implemented inside a plot. Deadwood was always measured along three transects of orientation north, south-east and south-west. Starting from the plot centre (pink flag), deadwood pieces crossing the transect were measured along the transect. The longitude of the transect increased according to the diameter class of deadwood as seen in the diagram, where the smallest class (diameter \< 1 cm) were measured from 0 to 5 m and the biggest (diameter 10 – 15 cm) from 0 to 25 m.](FIGURE_1){#fig-1 fig-alt="A map"}
+
+## Field data
+
+We focused in three main tree species commonly distributed in the gradient. Beech (*Fagus sylvatica* L., hereafter FAGSYL) was present in all sites, while silver fir (*Abies alba* Mill., hereafter ABIALB) and pubescent oak (*Quercus pubescens* Willd., hereafter QUEPUB) were only present in the three norther-most and southern-most sites, respectively. Plots were considered monospecific when more than 90% of basal area was represented by the same species. In plurispecific plots, each species accounted for at least 40% of total plot basal area. Sampling plots had a circular shape of $r_{total} = 17.5$ meters ($962 m^2$), with an inner part of $r_{inner} = 10$ meters ($314 m^2$ approx.) and a surrounding buffer zone of $r_{total} – r_{buffer} = 7.5$ meters (from $10$ to $17.5$ m, $648 m^2$ approx.). In the inner part all trees of DBH > 7.5 cm (Diameter at Breast Height of 1.3 m, DBH) were measured, while in the buffer zone only dominant trees were measured. Dominant trees were those with DBH higher than the median DBH of the trees established in the inner part. Triplet’s plots were as closer as possible, with an average distance of 177 m and had a similar elevation to avoid microclimatic interferences. All plots were located in high forests with no evidences of recent management as advised by local managers, except for G Luberon that coppicing management was detected.
+
+## Deadwood data collection
+
+Deadwood survey was conducted following the line intersect method described in Van Wagner [-@VanWagner1968]. It provides the volume of wood pieces measured on the ground based on the frequency and diameter class of deadwood pieces that intersect with a transect of known longitude. This method records the diameter of the deadwood pieces in the cross-sectional point of the transect to assess density as shown:
+
+$$
+\text{Deadwood Volume }(m^{3}ha^{-1}) = (\pi^2/8L) \mathrm{\sum_{}^{}}d^2
+$$ {#eq-1}
+
+Where $L$ is the length (m) of the transect line and $d$ is the piece diameter (cm) at intersection. @eq-1 assumes that pieces are randomly oriented and that have a circular cross-section as per Van Wagner [-@vanwagner1982]. Line intersect has proven to be robust and unbiased method to assess deadwood even for fine fractions [@korboulewskyForests2021].
+
+In each sampling plot, three 25m-long lines were defined systematically at 0º (N), 120º (SE)) and 240º (SW) compass direction departing from the plot’s centre ([@fig-1]-D). In each line, five transects of varying length (5, 10, 15, 20 and 25 m) were traced starting from the centre to measure different deadwood size classes (\< 1 cm, 1 to 3 cm, 3 to 5 cm, 5 to 10 cm and 10 to 15 cm, respectively - as depicted in ([@fig-1]-D). This sampling method allowed us to assess the deadwood volume and number of debris for all fractions in a time efficient task by adjusting the length of the transect, and second, ensure the detection of the biggest pieces thanks to the delimitation of three transects by plot. We assessed deadwood volume using [@eq-1] for each transect and size-class. After that, volume records were grouped in three deadwood classes based on the literature: *woody litterfall* (LF: < 1 cm), *fine woody debris* (FWD: ≥ 1 — < 5 cm) and *coarse woody debris* (CWD: ≥ 5 — < 15 cm). Similarly, we addressed deadwood density (measured as number of pieces per transect) employing raw counts.
+
+## Forest survey and stand characteristicts
+
+All living trees inside a plot were surveyed and identified at the species level and measured at height = 1.3 m (Diameter at Breast Height, DBH) to derive tree basal area, assuming circular stems. The survey allowed us to compute stand characteristics. Plot basal area (PBA) was obtained by summing of all trees basal area. Big-sized trees (BST) were defined as the number of living trees of DBH ≥ 67.5  cm.
+
+Tree-size heterogeneity (Gini~BA~) was assessed with the Gini coefficient ([@eq-2]) of tree sizes because it has been proved to symbolize structural diversity of forests [@lexerodEvaluationDifferentDiameter2006; @cordonnierPerspectivesinPlantEcologyEvolutionandSystematics2015]. The coefficient defines the equality grade by which individual basal area contributes to the total plot basal area. Thus, the coefficient ranges from 0 to 1, with being 0 the perfect equality in tree basal areas and 1 being the maximum heterogeneity in which a single tree represents all the plot basal area. Gini was computed as follows:
+
+$$
+\text{Gini}_{BA} = \frac{\mathrm{\sum_{}^{}}_{j=1}^{n} (2j-n-1)BA_{j}}{\mathrm{\sum_{}^{}}_{j=1}^{n} BA_{j}(n-1)}
+$$ {#eq-2}
+
+Where $BA_{j}$ is the basal area of the tree of rank $j$, and $j$ is the
+rank of a tree sorted in ascending order, starting from the smallest
+tree of $j = 1$, to $n$, the total number of trees of a plot.
+
+Additionally, tree species diversity (Shannon~BA~) was computed as the exponential version of Shannon diversity index, using the total basal area of a species as a proxy of its abundance with using *vegan* R package [@oksanen2025]. 
+
+# References {.unnumbered}
+
+::: {#refs}
+:::
